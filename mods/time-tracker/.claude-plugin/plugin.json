@@ -1,0 +1,9 @@
+{
+  "name": "time-tracker",
+  "version": "0.1.0",
+  "description": "Tracks how long Claude was active: turns, model generation, tool runs and subagents, per session, per day and in total.",
+  "author": {
+    "name": "Antonis Panos"
+  },
+  "types": "./types/index.d.ts"
+}

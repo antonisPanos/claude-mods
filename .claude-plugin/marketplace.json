@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "description": "Claude Code mods by Antonis Panos.",
+  "owner": {
+    "name": "Antonis Panos"
+  },
+  "plugins": [
+    {
+      "name": "time-tracker",
+      "source": "./mods/time-tracker",
+      "description": "Tracks how long Claude was active: turns, model generation, tool runs and subagents."
+    }
+  ]
+}
